@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="App1.views.billingInfo.objects" />
+          <option value="App.views.EngineerSerializer" />
+          <option value="django.contrib.admin.sites.register" />
+          <option value="dict.error" />
+          <option value="App1.models.orders.text" />
+          <option value="App1.views.customer.objects" />
+          <option value="App1.models.Address.as_view" />
+          <option value="App1.views.Id" />
+          <option value="PersonalProject.settings.os" />
+          <option value="App1.views.Response" />
+          <option value="App1.views.index.*" />
+          <option value="personal__Project.settings.os_path" />
+          <option value="App1.views.djangouploads" />
+          <option value="HR.views.serializers" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
